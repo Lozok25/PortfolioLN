@@ -1,4 +1,4 @@
-# Astro Starter Kit: Portfolio
+# Astro Starter Kit: Portfolio LOIC NJO
 
 ```
 npm create astro@latest -- --template portfolio
